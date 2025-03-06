@@ -67,13 +67,13 @@ export default function Footer() {
                         <p>
                             PRAYAS CHARITABLE TRUST<br />
                             HDFC BANK ,<br />
-                            50200068389003 ,<br />
-                            HDFC0000049 ,<br />
+                            50100795378357 ,<br />
+                            HDFC0005018 ,<br />
                             BODAKDEV , AHMEDABAD<br />
                         </p>
                         <p className='fw-bold'>
                             PAN NUMBER : AAETP9768Q <br/>
-                            URN : AAETP9768QF20221
+                            URN : AAETP9768Q24AD01
                         </p>
 
                     </MDBCol>
